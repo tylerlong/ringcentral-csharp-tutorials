@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using RingCentral.SDK;
-
 using UIKit;
 
 namespace MyTestApp
@@ -14,11 +12,11 @@ namespace MyTestApp
 		}
 
 		private Platform platform;
-		private const string appKey = "33zQZlyQSPadH22cFIT0sw";
-		private const string appSecret = "TgihqTjaSg2_63CmrNq6tA8n2riQTCQwGl4VoD0mRYTA";
-		private const string username = "17322764403";
-		private const string extension = "";
-		private const string password = "RNG94405";
+		private const string appKey = "appKey";
+		private const string appSecret = "appSecret";
+		private const string username = "username";
+		private const string extension = "extension";
+		private const string password = "password";
 		private const string sandboxServer = "https://platform.devtest.ringcentral.com";
 		// private const string productionServer = "https://platform.ringcentral.com";
 
